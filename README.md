@@ -6,7 +6,7 @@
 
 ## शुभ विवाह
  
-
+This is the Hindi version of the [previous wedding invitation website](https://sonali.netlify.app/), I created for my elder brother's wedding.
 
 ## Are you or your loved ones a *bride-to-be* or *groom-to-be*? 
 > Feel free to use this template to build your wedding website! Fork and make the following changes.
