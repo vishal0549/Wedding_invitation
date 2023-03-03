@@ -27,8 +27,3 @@ var countDownDate = new Date("May 30, 2022 00:00:00").getTime();
    <audio src="./assets/mp3/song.mp3" id="my_audio" loop="loop"></audio> 
 </div>
 ```
-
-### Do not forget to leave a star! :hugs:
-
-Tag me to share your wedding story on Twitter([@vsshi](https://twitter.com/)) :yellow_heart:
-<br><br>
